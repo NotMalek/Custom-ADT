@@ -8,4 +8,4 @@
   <li>Manipulation methods: The code also implements and optimizes working methods to manipulate the data stored in the ADT. This includes methods for adding, removing, and searching for objects within the ADT, as well as more advanced manipulation methods such as sorting, filtering, and querying the data. These methods are designed for optimal performance and are easy to use and understand.</li>
 </ul>
 
-<p>In summary, the code you have written is a custom ADT that is optimized for storing and manipulating large numbers of objects efficiently, with minimal memory overhead, and with easy-to-use methods for data manipulation.</p>
+<p>In summary, this code is a custom ADT that is optimized for storing and manipulating large numbers of objects efficiently, with minimal memory overhead, and with easy-to-use methods for data manipulation.</p>
