@@ -1,6 +1,6 @@
-<h1>Custom ADT Code</h1>
+<h1>Custom ADT</h1>
 
-<p>The custom ADT code that I wrote is designed to meet the following goals:</p>
+<p>The custom ADT that I designed meets the following goals:</p>
 
 <ul>
   <li>Object storage: The code creates a data structure that is optimized for storing large numbers of objects. This allows for quick and efficient storage of the objects, with minimal memory overhead.</li>
